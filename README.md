@@ -120,7 +120,7 @@ Data Model Layer
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/whispr-chat.git
+   git clone https://github.com/chhabinath/Whispr-group-chat-app.git
    cd whispr-chat
    ```
 
@@ -309,6 +309,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Built with ❤️ using Spring Boot and WebSocket**
 
-[Report Bug](https://github.com/your-username/whispr-chat/issues) · [Request Feature](https://github.com/your-username/whispr-chat/issues)
+[Report Bug](https://github.com/chhabinath/Whispr-group-chat-app/issues) · [Request Feature](https://github.com/chhabinath/Whispr-group-chat-app/issues)
 
 </div>
